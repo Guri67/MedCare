@@ -1,0 +1,594 @@
+[
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fargstore.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\fargstore.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introthird.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_introthird.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ambulance.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_whatsapp.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orange.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_medi.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\medi.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_phn.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\phn.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fargstore.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\fargstore.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_contacteleven.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\contacteleven.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_whatsapp.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_advice.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\advice.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_asdd.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\asdd.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fb.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_aboutus_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_aboutus_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_advice.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\advice.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_people.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_custombutton3.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\custombutton3.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contactone.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\contactone.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\anim_hyperspace_jump.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\anim\\hyperspace_jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_asdd.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\asdd.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_insta.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\insta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombutton.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\custombutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_custombutton.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\custombutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_users.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgotpassword.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contacteleven.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\contacteleven.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_insta.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\insta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_help_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_custombutton2.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\custombutton2.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bc.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\bc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\contact.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logooo.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\logooo.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_msg.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\msg.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logooo.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\logooo.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_contactone.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\contactone.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gradient.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logoeleven.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\logoeleven.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logooo.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\logooo.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_whats_hot.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_whats_hot.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\anim_bounce.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombutton2.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\custombutton2.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_password.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logooo.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\logooo.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_insta.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\insta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_counter_bg.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_whatsapp.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_users.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_advice.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\advice.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_insta.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\insta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_advice.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\advice.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoone.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\logoone.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_asdd.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\asdd.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_contacteleven.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\contacteleven.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\abc.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logoeleven.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\logoeleven.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\anim_sequential_animation.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\anim\\sequential_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_password.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fargstore.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\fargstore.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custombutton3.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\custombutton3.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_contact.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_asdd.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\asdd.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_photos.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_photos.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_contact.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orange.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_people.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\menu_map.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\menu\\map.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fargstore.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\fargstore.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sendmail.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_sendmail.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_logout_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_logout_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logoone.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\logoone.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introfirst.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_introfirst.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medi.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\medi.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_find_people.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_find_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\anim_flip.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_drawer.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_users.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_users.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\users.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_people.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_password.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_about.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_contact_us_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_contactone.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\contactone.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gmail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pages.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_whatsapp.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_selector.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_communities.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_phn.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\phn.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_community.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_contact.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\contact.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\abc.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_photos.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\ic_photos.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fb.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-ldpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introsecond.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_introsecond.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_people.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_people.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_whats_hot.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xhdpi\\ic_whats_hot.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_pressed.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg_normal.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pages.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pages.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ambulance.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable\\ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gmail.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\gmail.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bc.jpg.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\bc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_medical_store_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_medical_store_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_like_us_fragment.xml.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\layout\\activity_like_us_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logooo.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-hdpi\\logooo.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_msg.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-mdpi\\msg.png"
+    },
+    {
+        "merged": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_communities.png.flat",
+        "source": "C:\\Users\\KULLOVETH\\AndroidStudioProjects\\MedTalks4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_communities.png"
+    }
+]

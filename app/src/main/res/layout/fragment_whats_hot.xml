@@ -1,0 +1,69 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#05c09a"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fargstore" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <info.youtaar.medicare.JustifiedTextView
+                    android:id="@+id/tv_justified_paragraph"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Medi Tracker is Simple and Easy to use for User's. We Believe that this app will help to provide many benifits to our Consumer's. You can buy and send medicines from any corner of the country - with just a click.  In this feature Consumer's get details about  Medical Store's and you can order medicine as per your description and consumer's can search nearest medical store via google maps. We can't provide prescription Drugs without doctor's descriptions. user can communicate with us via Call, Sms and Social Network applications like (Whatsapp,Facebook,Instagram) .Get all products delivered Directly to your doorsteps. we help you look after your own health effortlessly as well as take care of loved ones wherever they may reside in India. "
+                    android:textColor="#ffffff"
+                    android:textSize="15sp" />
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="8"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/custombutton"
+            android:text="Get Map"
+            android:textColor="#05c09a"
+            android:textStyle="bold|italic" />
+    </LinearLayout>
+
+</LinearLayout>

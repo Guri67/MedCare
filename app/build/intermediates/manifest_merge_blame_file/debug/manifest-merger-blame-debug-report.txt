@@ -1,0 +1,221 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="info.youtaar.medicare"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+10
+11    <permission
+11-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:7:5-9:47
+12        android:name="info.youtaar.medicare.permission.MAPS_RECEIVE"
+12-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:8:9-69
+13        android:protectionLevel="signature" />
+13-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:9:9-44
+14
+15    <uses-permission android:name="info.youtaar.medicare.permission.MAPS_RECEIVE" />
+15-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:11:5-85
+15-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:11:22-82
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:12:5-67
+16-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:12:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:13:5-79
+17-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:13:22-76
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:14:5-81
+18-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:14:22-78
+19    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+19-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:15:5-98
+19-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:15:22-95
+20    <uses-permission android:name="android.permission.VIBRATE" />
+20-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:16:5-66
+20-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:16:22-63
+21    <uses-permission android:name="android.permission.SEND_SMS" />
+21-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:17:5-67
+21-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:17:22-64
+22    <uses-permission android:name="android.permission.CALL_PHONE" />
+22-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:18:5-69
+22-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:18:22-66
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:19:5-81
+23-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:19:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:20:5-79
+24-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:20:22-76
+25
+26    <uses-feature
+26-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:22:5-24:35
+27        android:glEsVersion="0x00020000"
+27-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:23:9-41
+28        android:required="true" />
+28-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:24:9-32
+29
+30    <application
+30-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:26:5-104:19
+31        android:allowBackup="true"
+31-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:27:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@drawable/ic_launcher"
+34-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:28:9-45
+35        android:label="@string/app_name"
+35-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:29:9-41
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:30:9-40
+38        <meta-data
+38-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:31:9-33:71
+39            android:name="com.google.android.maps.v2.API_KEY"
+39-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:32:13-62
+40            android:value="AIzaSyCFvJnNZ6VauReQb0F6a8tMzGPYys4T_Cg" />
+40-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:33:13-68
+41        <!-- <meta-data -->
+42        <!-- android:name="com.google.android.gms.version" -->
+43        <!-- android:value="@integer/google_play_services_version" /> -->
+44
+45        <activity android:name="info.youtaar.medicare.HomeActivity" >
+45-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:38:9-39:20
+45-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:38:19-47
+46        </activity>
+47        <activity android:name="info.youtaar.medicare.DataBaseHelper" >
+47-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:40:9-41:20
+47-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:40:19-49
+48        </activity>
+49        <activity android:name="info.youtaar.medicare.SignUPActivity" >
+49-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:42:9-43:20
+49-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:42:19-49
+50        </activity>
+51        <activity android:name="info.youtaar.medicare.LoginDataBaseAdapter" >
+51-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:44:9-45:20
+51-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:44:19-55
+52        </activity>
+53        <activity android:name="info.youtaar.medicare.MainActivity" >
+53-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:46:9-48:20
+53-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:46:19-47
+54        </activity>
+55        <activity android:name="info.youtaar.medicare.NavDrawerItem" >
+55-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:49:9-50:20
+55-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:49:19-48
+56        </activity>
+57        <activity android:name="info.youtaar.medicare.NavDrawerListAdapter" >
+57-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:51:9-52:20
+57-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:51:19-55
+58        </activity>
+59        <activity
+59-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:53:9-61:20
+60            android:name="info.youtaar.medicare.Splash"
+60-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:54:13-35
+61            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" >
+61-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:55:13-83
+62            <intent-filter>
+62-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:56:12-60:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:57:17-69
+63-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:57:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:59:17-77
+65-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:59:27-74
+66            </intent-filter>
+67        </activity>
+68        <activity android:name="info.youtaar.medicare.Signup" >
+68-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:62:9-63:20
+68-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:62:19-41
+69        </activity>
+70        <activity android:name="info.youtaar.medicare.Sendmail" >
+70-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:64:9-65:20
+70-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:64:19-43
+71        </activity>
+72        <activity android:name="info.youtaar.medicare.Login" >
+72-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:66:9-67:20
+72-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:66:19-40
+73        </activity>
+74        <activity android:name="info.youtaar.medicare.Introfirst" >
+74-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:68:9-69:20
+74-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:68:19-45
+75        </activity>
+76        <activity android:name="info.youtaar.medicare.Introsecond" >
+76-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:70:9-71:20
+76-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:70:19-46
+77        </activity>
+78        <activity android:name="info.youtaar.medicare.Introthird" >
+78-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:72:9-73:20
+78-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:72:19-45
+79        </activity>
+80        <activity android:name="info.youtaar.medicare.Forgotpassword" >
+80-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:74:9-75:20
+80-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:74:19-49
+81        </activity>
+82        <activity
+82-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:76:9-79:20
+83            android:name="info.youtaar.medicare.Medical_store_fragment"
+83-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:77:13-51
+84            android:label="@string/title_activity_medical_store_fragment" >
+84-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:78:13-74
+85        </activity>
+86        <activity
+86-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:80:9-83:20
+87            android:name="info.youtaar.medicare.Like_us_fragment"
+87-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:81:13-45
+88            android:label="@string/title_activity_like_us_fragment" >
+88-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:82:13-68
+89        </activity>
+90        <activity
+90-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:84:9-87:20
+91            android:name="info.youtaar.medicare.Aboutus_fragment"
+91-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:85:13-45
+92            android:label="@string/title_activity_aboutus_fragment" >
+92-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:86:13-68
+93        </activity>
+94        <activity
+94-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:88:9-91:20
+95            android:name="info.youtaar.medicare.Contact_us_fragment"
+95-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:89:13-48
+96            android:label="@string/title_activity_contact_us_fragment" >
+96-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:90:13-71
+97        </activity>
+98        <activity
+98-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:92:9-95:20
+99            android:name="info.youtaar.medicare.Help_fragment"
+99-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:93:13-42
+100            android:label="@string/title_activity_help_fragment" >
+100-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:94:13-65
+101        </activity>
+102        <activity
+102-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:96:9-99:20
+103            android:name="info.youtaar.medicare.Logout_fragment"
+103-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:97:13-44
+104            android:label="@string/title_activity_logout_fragment" >
+104-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:98:13-67
+105        </activity>
+106        <activity
+106-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:100:9-103:20
+107            android:name="info.youtaar.medicare.Map"
+107-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:101:13-32
+108            android:label="@string/title_activity_map" >
+108-->C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:102:13-55
+109        </activity>
+110        <activity
+110-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:9-172
+111            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+111-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:19-85
+112            android:exported="false"
+112-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:146-170
+113            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+113-->[com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:86-145
+114
+115        <meta-data
+115-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
+116            android:name="com.google.android.gms.version"
+116-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:20-65
+117            android:value="@integer/google_play_services_version" />
+117-->[com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
+118    </application>
+119
+120</manifest>

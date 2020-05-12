@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\73146e090676cd343df87afbab6ee6db\jetified-play-services-location-9.8.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9eafe9aa464eff5e2f9ac9371ce592e7\jetified-play-services-tasks-9.8.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+permission#info.youtaar.medicare.permission.MAPS_RECEIVE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:7:5-9:47
+	android:protectionLevel
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:9:9-44
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:8:9-69
+uses-permission#info.youtaar.medicare.permission.MAPS_RECEIVE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:11:5-85
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:11:22-82
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:15:22-95
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:18:5-69
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:18:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:22:5-24:35
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:23:9-41
+	android:required
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:24:9-32
+application
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:26:5-104:19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\73146e090676cd343df87afbab6ee6db\jetified-play-services-location-9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\73146e090676cd343df87afbab6ee6db\jetified-play-services-location-9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9eafe9aa464eff5e2f9ac9371ce592e7\jetified-play-services-tasks-9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9eafe9aa464eff5e2f9ac9371ce592e7\jetified-play-services-tasks-9.8.0\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:30:9-40
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:31:9-33:71
+	android:value
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:33:13-68
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:32:13-62
+activity#info.youtaar.medicare.HomeActivity
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:38:19-47
+activity#info.youtaar.medicare.DataBaseHelper
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:40:19-49
+activity#info.youtaar.medicare.SignUPActivity
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:42:19-49
+activity#info.youtaar.medicare.LoginDataBaseAdapter
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:44:19-55
+activity#info.youtaar.medicare.MainActivity
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:46:9-48:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:46:19-47
+activity#info.youtaar.medicare.NavDrawerItem
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:49:19-48
+activity#info.youtaar.medicare.NavDrawerListAdapter
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:51:19-55
+activity#info.youtaar.medicare.Splash
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:53:9-61:20
+	android:theme
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:55:13-83
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:54:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:56:12-60:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:57:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:59:27-74
+activity#info.youtaar.medicare.Signup
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:62:9-63:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:62:19-41
+activity#info.youtaar.medicare.Sendmail
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:64:19-43
+activity#info.youtaar.medicare.Login
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:66:9-67:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:66:19-40
+activity#info.youtaar.medicare.Introfirst
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:68:9-69:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:68:19-45
+activity#info.youtaar.medicare.Introsecond
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:70:9-71:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:70:19-46
+activity#info.youtaar.medicare.Introthird
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:72:9-73:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:72:19-45
+activity#info.youtaar.medicare.Forgotpassword
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:74:9-75:20
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:74:19-49
+activity#info.youtaar.medicare.Medical_store_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:78:13-74
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:77:13-51
+activity#info.youtaar.medicare.Like_us_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:82:13-68
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:81:13-45
+activity#info.youtaar.medicare.Aboutus_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:86:13-68
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:85:13-45
+activity#info.youtaar.medicare.Contact_us_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:90:13-71
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:89:13-48
+activity#info.youtaar.medicare.Help_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:94:13-65
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:93:13-42
+activity#info.youtaar.medicare.Logout_fragment
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:98:13-67
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:97:13-44
+activity#info.youtaar.medicare.Map
+ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:102:13-55
+	android:name
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml:101:13-32
+uses-sdk
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b139c8c233fd74a1debaf6193b05c6f\jetified-play-services-maps-9.8.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\73146e090676cd343df87afbab6ee6db\jetified-play-services-location-9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\73146e090676cd343df87afbab6ee6db\jetified-play-services-location-9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9eafe9aa464eff5e2f9ac9371ce592e7\jetified-play-services-tasks-9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9eafe9aa464eff5e2f9ac9371ce592e7\jetified-play-services-tasks-9.8.0\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:17:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\KULLOVETH\AndroidStudioProjects\MedTalks4\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\97b97a7b2b8b621253ee025ea04ba3c4\jetified-play-services-base-9.8.0\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\KULLOVETH\.gradle\caches\transforms-2\files-2.1\b2e17f6b28be435dea1602e936e7fe62\jetified-play-services-basement-9.8.0\AndroidManifest.xml:20:20-65

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Med Talks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Doctor Care</item>
+        <item>Ambulance</item>
+        <item>Blood Bank</item>
+        <item>Emergency</item>
+        <item>Doctor Advice</item>
+        <item>Medical Store</item>
+        <item>Like Us</item>
+        <item>About Us</item>
+        <item>Contact Us</item>
+        <item>Help Us</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_medical_store_fragment">Medical_store_fragment</string>
+    <string name="title_activity_like_us_fragment">Like_us_fragment</string>
+    <string name="title_activity_aboutus_fragment">Aboutus_fragment</string>
+    <string name="title_activity_contact_us_fragment">Contact_us_fragment</string>
+    <string name="title_activity_help_fragment">Help_fragment</string>
+    <string name="title_activity_logout_fragment">Logout_fragment</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>

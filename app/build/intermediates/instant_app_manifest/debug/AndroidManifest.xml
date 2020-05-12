@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="info.youtaar.medicare"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <permission
+        android:name="info.youtaar.medicare.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="info.youtaar.medicare.permission.MAPS_RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCFvJnNZ6VauReQb0F6a8tMzGPYys4T_Cg" />
+        <!-- <meta-data -->
+        <!-- android:name="com.google.android.gms.version" -->
+        <!-- android:value="@integer/google_play_services_version" /> -->
+
+        <activity android:name="info.youtaar.medicare.HomeActivity" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.DataBaseHelper" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.SignUPActivity" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.LoginDataBaseAdapter" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.MainActivity" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.NavDrawerItem" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.NavDrawerListAdapter" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Splash"
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="info.youtaar.medicare.Signup" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Sendmail" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Login" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Introfirst" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Introsecond" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Introthird" >
+        </activity>
+        <activity android:name="info.youtaar.medicare.Forgotpassword" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Medical_store_fragment"
+            android:label="@string/title_activity_medical_store_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Like_us_fragment"
+            android:label="@string/title_activity_like_us_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Aboutus_fragment"
+            android:label="@string/title_activity_aboutus_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Contact_us_fragment"
+            android:label="@string/title_activity_contact_us_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Help_fragment"
+            android:label="@string/title_activity_help_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Logout_fragment"
+            android:label="@string/title_activity_logout_fragment" >
+        </activity>
+        <activity
+            android:name="info.youtaar.medicare.Map"
+            android:label="@string/title_activity_map" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>
