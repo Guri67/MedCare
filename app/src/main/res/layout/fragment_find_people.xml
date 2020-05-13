@@ -48,11 +48,10 @@
         
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/map_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:onClick="action"
         android:background="@drawable/custombutton"
         android:layout_alignRight="@+id/imageView1"
         android:layout_marginBottom="46dp"
